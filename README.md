@@ -2,11 +2,17 @@
 
 #### What is turkish-apis?
 A repository to store Turkish/Turkey based APIs.
-
-
+<br/>
+You can contribute to this repository.
+<br/>
+[Contributing Guide](/CONTRIBUTING.md)
 
 #### turkish-apis nedir?
 Türk veya Türkiye menşeili API'lerin listelendiği bir repo.
+<br/>
+Bu repo'ya siz de katkıda bulunabilirsiniz.
+<br/>
+[Katkıda Bulunma Kılavuzu](/CONTRIBUTING.md)
 
 -----
 
