@@ -20,7 +20,8 @@ List of Turkish APIs
 
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
-| [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | apiKey | Yes |
+| [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
+| [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
 
 -----
 
@@ -30,4 +31,5 @@ Türk API'lerinin Listesi
 
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
-| [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | apiKey | Var |
+| [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
+| [iyzico](https://dev.iyzipay.com/tr/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
