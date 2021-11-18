@@ -24,6 +24,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
+| [BtcTurk](https://api.btcturk.com) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | apiKey | Yes |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | apiKey | Yes |
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
