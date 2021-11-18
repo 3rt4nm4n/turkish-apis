@@ -35,6 +35,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 
 | API  | TANIM | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
+| [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | Türkiye'de e-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
 | [iyzico](https://dev.iyzipay.com/tr/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
