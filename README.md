@@ -28,6 +28,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | apiKey | Yes |
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
+| [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
 
 -----
@@ -39,6 +40,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
 | [iyzico](https://dev.iyzipay.com/tr/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
+| [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Türkiye'de B2C hizmeti sunan online alışveriş sitesi.  | apiKey | Var |
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
 | [payfull](https://www.payfull.com/ozel-cozumler-ve-api) | İşletmelere özel sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
 | [Trendyol](https://developers.trendyol.com/tr) | E-ticaret ve online alışveriş firma | OAuth | Var | 
