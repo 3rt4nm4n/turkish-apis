@@ -24,6 +24,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
+| [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | Türkiye'nin en bilinen bankalarından Akbank'a ait geliştiriciler için API ve dökümantasyon sayfası. | OAuth | Var |
 | [bip](https://bip.com/en/category/developer/discover-api/) | Instant messaging app. | OAuth | Yes |
 | [BtcTurk](https://api.btcturk.com) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | apiKey | Yes |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | apiKey | Yes |
@@ -42,20 +43,29 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 
 | API  | TANIM | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
+| [ATLAS API](https://cbs.csb.gov.tr/atlas-api-i-5437) | Coğrafi Bilgi Sistemleri Genel Müdürlüğü tarafından geliştirilip sunulan CBS API'si. | apiKey | Var |
 | [Altın Fiyatları (Genel Para)](https://api.genelpara.com/embed/altin.json) | Altın fiyatları sorgulama API'si. | apiKey | Var |
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
 | [bip](https://bip.com/tr/category/dokumanlar/kesfet-api/) | Anlık mesajlaşma uygulaması. | OAuth | Var |
+| [Cumhurbaşkanlığı e-Yazışma API'leri](https://cbddo.gov.tr/projeler/e-yazisma/apiler/) | Cumhurbaşkanlığı Dijital Dönüşüm Ofisi elektronik yazışma API'leri. | OAuth | Var |
 | [Döviz Kurları (Genel Para)](https://api.genelpara.com/embed/doviz.json) | Döviz kurları sorgulama API'si. | apiKey | Var |
 | [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşi Sözlük API'si. | OAuth | Var |
 | [e-Nabız](https://ussservis.saglik.gov.tr/) | Kişisel sağlık bilgilerinin yönetildiği ve sağlık ile ilgili işlemlerin kolayca yapıldığı site. | apiKey | Var |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
+| [HaberApi](https://www.haberapi.com/index#pricing) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
+| [İleti Merkezi](https://a2psmsapi.com/?ref=iletimerkezicom#apidoc) | Toplu SMS gönderme platformu.  | OAuth | Var |
 | [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
 | [iyzico](https://dev.iyzipay.com/tr/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
 | [Kripto Para Fiyatları (Genel Para)](https://api.genelpara.com/embed/kripto.json) | Kripto para fiyatları sorgulama API'si. | apiKey | Var |
+| [Logo Yazılım](https://docs.logo.com.tr/public/lgap/logoapps-temelleri) | Türk yazılım şirketi. | apiKey | Var |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Türkiye'de B2C hizmeti sunan online alışveriş sitesi.  | apiKey | Var |
+| [ODTÜ FTP](https://ftp.metu.edu.tr/) | ODTÜ FTP Hizmet Sayfası.  | apiKey | Var |
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
 | [payfull](https://www.payfull.com/ozel-cozumler-ve-api) | İşletmelere özel sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
 | [TCMB EVDS](https://evds2.tcmb.gov.tr/index.php?/evds/userDocs) | TCMB Elektronik Veri Dağıtım Sistemi API kullanıcı dökümanları. | apiKey | Var | 
 | [Trendyol](https://developers.trendyol.com/tr) | E-ticaret ve online alışveriş firma. | OAuth | Var | 
 | [uludağ sözlük](http://www.uludagsozluk.com/api/?c=docs) | Uludağ Sözlük API'si. | OAuth | Var | 
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/api-catalog) | Türkiye'nin en büyük ikinci bankası. | OAuth | Var | 
+| [Yaani](https://api.yaani.com/) | Turkcell'in geliştirdiği yerli arama motoru. | OAuth | Var | 
+| [YaaniMail](https://api.yaanimail.com/) | Turkcell'e ait olan Yaani'nin e-posta platformu. | OAuth | Var | 
+
