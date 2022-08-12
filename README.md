@@ -62,6 +62,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [ODTÜ FTP](https://ftp.metu.edu.tr/) | ODTÜ FTP Hizmet Sayfası.  | apiKey | Var |
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
 | [payfull](https://www.payfull.com/ozel-cozumler-ve-api) | İşletmelere özel sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
+| [Repetiti](https://developers.repetiti.com) | Repetiti 3d Yazıcı Yönetim Hizmeti, 3d Yazıcılara kolayca erişin ve kontrol edin. | apiKey | Var | 
 | [TCMB EVDS](https://evds2.tcmb.gov.tr/index.php?/evds/userDocs) | TCMB Elektronik Veri Dağıtım Sistemi API kullanıcı dökümanları. | apiKey | Var | 
 | [Trendyol](https://developers.trendyol.com/tr) | E-ticaret ve online alışveriş firma. | OAuth | Var | 
 | [uludağ sözlük](http://www.uludagsozluk.com/api/?c=docs) | Uludağ Sözlük API'si. | OAuth | Var | 
