@@ -21,10 +21,10 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 [Türkçe Listeye Git](#türkçe)
 
 ### English:
-
+https://developers.repetiti.com/
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
-| [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | Türkiye'nin en bilinen bankalarından Akbank'a ait geliştiriciler için API ve dökümantasyon sayfası. | OAuth | Var |
+| [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | API and documentation page for developers of Akbank, one of the most well-known banks in Turkey. | OAuth | Var |
 | [bip](https://bip.com/en/category/developer/discover-api/) | Instant messaging app. | OAuth | Yes |
 | [BtcTurk](https://api.btcturk.com) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | apiKey | Yes |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | apiKey | Yes |
@@ -33,6 +33,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [İş Bankası](https://developer.isbank.com.tr/Pages/home.aspx) | Largest Turkish private bank.  | OAuth | Yes |
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
+| [Repetiti 3D Printer Controller API](https://developers.repetiti.com/) | API Documentation for Repetiti which is used for 3D printer controlling | OAuth | Var |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/en/api-catalog) | Second most active and largest bank in Turkey. | OAuth | Yes | 
 | [Yemeksepeti](http://messaging.yemeksepeti.com/MessagingWebService/Integration.asmx) | Unofficial API for Yemeksepeti which is an online food ordering site. | apiKey | No |
