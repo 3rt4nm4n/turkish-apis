@@ -21,7 +21,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 [Türkçe Listeye Git](#türkçe)
 
 ### English:
-https://developers.repetiti.com/
+
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
 | [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | API and documentation page for developers of Akbank, one of the most well-known banks in Turkey. | OAuth | Var |
