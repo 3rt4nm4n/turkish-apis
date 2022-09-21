@@ -62,8 +62,10 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Türkiye'de B2C hizmeti sunan online alışveriş sitesi.  | apiKey | Var |
 | [ODTÜ FTP](https://ftp.metu.edu.tr/) | ODTÜ FTP Hizmet Sayfası.  | apiKey | Var |
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
+| [Paycell API](https://paycell.com.tr/paycell-api/) | Sanal POS gibi ödeme alternatifleri sunan Paycell API'si. | apiKey | Var |
 | [payfull](https://www.payfull.com/ozel-cozumler-ve-api) | İşletmelere özel sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
 | [TCMB EVDS](https://evds2.tcmb.gov.tr/index.php?/evds/userDocs) | TCMB Elektronik Veri Dağıtım Sistemi API kullanıcı dökümanları. | apiKey | Var | 
+| [Turkcell API](https://developer.turkcellesirket.com/) | Limitli API kullanımı ile çeşitli hizmetler sunan Turkcell API. | OAuth | Var | 
 | [Trendyol](https://developers.trendyol.com/tr) | E-ticaret ve online alışveriş firma. | OAuth | Var | 
 | [uludağ sözlük](http://www.uludagsozluk.com/api/?c=docs) | Uludağ Sözlük API'si. | OAuth | Var | 
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/api-catalog) | Türkiye'nin en büyük ikinci bankası. | OAuth | Var | 
