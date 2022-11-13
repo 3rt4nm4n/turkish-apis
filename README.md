@@ -32,6 +32,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
 | [İş Bankası](https://developer.isbank.com.tr/Pages/home.aspx) | Largest Turkish private bank.  | OAuth | Yes |
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
+| [Kuveyt Türk](https://developer.kuveytturk.com.tr/) | A banking company in Turkey  | OAuth | Yes |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
 | [Repetiti 3D Printer Controller API](https://developers.repetiti.com/) | API Documentation for Repetiti which is used for 3D printer controlling | OAuth | Var |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
