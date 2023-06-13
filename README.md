@@ -36,11 +36,12 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
 | [Repetiti 3D Printer Controller API](https://developers.repetiti.com/) | API Documentation for Repetiti which is used for 3D printer controlling | OAuth | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
+| [TURKSTAT](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Var |
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/en/api-catalog) | Second most active and largest bank in Turkey. | OAuth | Yes | 
 | [Yemeksepeti](http://messaging.yemeksepeti.com/MessagingWebService/Integration.asmx) | Unofficial API for Yemeksepeti which is an online food ordering site. | apiKey | No |
 
 -----
-
+https://data.tuik.gov.tr/
 ### Türkçe:
 
 | API  | TANIM | Auth | HTTPS |
@@ -71,7 +72,8 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [payfull](https://www.payfull.com/ozel-cozumler-ve-api) | İşletmelere özel sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
 | [TCMB EVDS](https://evds2.tcmb.gov.tr/index.php?/evds/userDocs) | TCMB Elektronik Veri Dağıtım Sistemi API kullanıcı dökümanları. | apiKey | Var | 
 | [Turkcell API](https://developer.turkcellesirket.com/) | Limitli API kullanımı ile çeşitli hizmetler sunan Turkcell API. | OAuth | Var | 
-| [Trendyol](https://developers.trendyol.com/tr) | E-ticaret ve online alışveriş firma. | OAuth | Var | 
+| [Trendyol](https://developers.trendyol.com/tr) | E-ticaret ve online alışveriş firma. | OAuth | Var |
+| [TÜİK](https://data.tuik.gov.tr/) | Türkiye İstatistik Kurumu metaveri ve API noktası. | OAuth | Var |
 | [uludağ sözlük](http://www.uludagsozluk.com/api/?c=docs) | Uludağ Sözlük API'si. | OAuth | Var | 
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/api-catalog) | Türkiye'nin en büyük ikinci bankası. | OAuth | Var | 
 | [Yaani](https://api.yaani.com/) | Turkcell'in geliştirdiği yerli arama motoru. | OAuth | Var | 
