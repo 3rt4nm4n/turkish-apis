@@ -52,6 +52,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Cumhurbaşkanlığı e-Yazışma API'leri](https://cbddo.gov.tr/projeler/e-yazisma/apiler/) | Cumhurbaşkanlığı Dijital Dönüşüm Ofisi elektronik yazışma API'leri. | OAuth | Var |
 | [Dia](https://doc.dia.com.tr/doku.php?id=gelistirici:wsapi:anasayfa) | Kurumsal kaynak planlama çözümleri geliştiren ve bunu API yoluyla kullanmayı sağlayan bir şirket. | OAuth | Var |
 | [Döviz Kurları (Genel Para)](https://api.genelpara.com/embed/doviz.json) | Döviz kurları sorgulama API'si. | apiKey | Var |
+| [EDM](https://docs.edmbilisim.com.tr/api/api-documentation/introduction.html) | E-fatura ve çeşitli elektronik belgelerin geliştirilmesini sağlayan bir API. | OAuth | Var |
 | [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşi Sözlük API'si. | OAuth | Var |
 | [e-Nabız](https://ussservis.saglik.gov.tr/) | Kişisel sağlık bilgilerinin yönetildiği ve sağlık ile ilgili işlemlerin kolayca yapıldığı site. | apiKey | Var |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
