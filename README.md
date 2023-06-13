@@ -50,6 +50,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
 | [bip](https://bip.com/tr/category/dokumanlar/kesfet-api/) | Anlık mesajlaşma uygulaması. | OAuth | Var |
 | [Cumhurbaşkanlığı e-Yazışma API'leri](https://cbddo.gov.tr/projeler/e-yazisma/apiler/) | Cumhurbaşkanlığı Dijital Dönüşüm Ofisi elektronik yazışma API'leri. | OAuth | Var |
+| [Dia](https://doc.dia.com.tr/doku.php?id=gelistirici:wsapi:anasayfa) | Kurumsal kaynak planlama çözümleri geliştiren ve bunu API yoluyla kullanmayı sağlayan bir şirket. | OAuth | Var |
 | [Döviz Kurları (Genel Para)](https://api.genelpara.com/embed/doviz.json) | Döviz kurları sorgulama API'si. | apiKey | Var |
 | [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşi Sözlük API'si. | OAuth | Var |
 | [e-Nabız](https://ussservis.saglik.gov.tr/) | Kişisel sağlık bilgilerinin yönetildiği ve sağlık ile ilgili işlemlerin kolayca yapıldığı site. | apiKey | Var |
