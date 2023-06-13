@@ -32,7 +32,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
 | [İş Bankası](https://developer.isbank.com.tr/Pages/home.aspx) | Largest Turkish private bank.  | OAuth | Yes |
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
-| [Kuveyt Türk](https://developer.kuveytturk.com.tr/) | A banking company in Turkey  | OAuth | Yes |
+| [Kuveyt Türk](https://developer.kuveytturk.com.tr/) | Kuveyt Turk's API for API banking system.  | OAuth | Yes |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
 | [Repetiti 3D Printer Controller API](https://developers.repetiti.com/) | API Documentation for Repetiti which is used for 3D printer controlling | OAuth | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
@@ -59,6 +59,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
 | [iyzico](https://dev.iyzipay.com/tr/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
 | [Kripto Para Fiyatları (Genel Para)](https://api.genelpara.com/embed/kripto.json) | Kripto para fiyatları sorgulama API'si. | apiKey | Var |
+| [Kuveyt Türk](https://www.kuveytturk.com.tr/subesiz-bankacilik/api-bankaciligi/genel-ozellikler) | Kuveyt Türk bankacılık API'si. | apiKey | Var |
 | [Logo Yazılım](https://docs.logo.com.tr/public/lgap/logoapps-temelleri) | Türk yazılım şirketi. | apiKey | Var |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Türkiye'de B2C hizmeti sunan online alışveriş sitesi.  | apiKey | Var |
 | [ODTÜ FTP](https://ftp.metu.edu.tr/) | ODTÜ FTP Hizmet Sayfası.  | apiKey | Var |
