@@ -1,4 +1,4 @@
-# turkish-apis
+sa# turkish-apis
 
 #### What is turkish-apis?
 A repository to store Turkish/Turkey based APIs.
@@ -41,7 +41,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Yemeksepeti](http://messaging.yemeksepeti.com/MessagingWebService/Integration.asmx) | Unofficial API for Yemeksepeti which is an online food ordering site. | apiKey | No |
 
 -----
-https://data.tuik.gov.tr/
+
 ### Türkçe:
 
 | API  | TANIM | Auth | HTTPS |
