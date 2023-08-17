@@ -1,4 +1,4 @@
-sa# turkish-apis
+# turkish-apis
 
 #### What is turkish-apis?
 A repository to store Turkish/Turkey based APIs.
