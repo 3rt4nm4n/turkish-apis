@@ -75,6 +75,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
 | [Paycell API](https://paycell.com.tr/paycell-api/) | Sanal POS gibi ödeme alternatifleri sunan Paycell API'si. | apiKey | Var |
 | [payfull](https://www.payfull.com/ozel-cozumler-ve-api) | İşletmelere özel sanal POS hizmeti sunan bir şirket.  | apiKey | Var |
+| [Sermaye Piyasası Kurulu](https://ws.spk.gov.tr/help/index.html) | Sermaye Piyasası Kurulu (SPK) tarafından sunulan web servisleri bulunmaktadır.  | apiKey | Var |
 | [Şehir Haritası API](https://sehirharitasi.ibb.gov.tr/developer/index.html) | Kendi haritanızı geliştirmenize yarayan İBB tarafından sunulan bir API.  | OAuth | Var |
 | [TCMB EVDS](https://evds2.tcmb.gov.tr/index.php?/evds/userDocs) | TCMB Elektronik Veri Dağıtım Sistemi API kullanıcı dökümanları. | apiKey | Var | 
 | [Turkcell API](https://developer.turkcellesirket.com/) | Limitli API kullanımı ile çeşitli hizmetler sunan Turkcell API. | OAuth | Var | 
