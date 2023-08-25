@@ -39,6 +39,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [TURKSTAT](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Var |
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/en/api-catalog) | Second most active and largest bank in Turkey. | OAuth | Yes | 
 | [Yemeksepeti](http://messaging.yemeksepeti.com/MessagingWebService/Integration.asmx) | Unofficial API for Yemeksepeti which is an online food ordering site. | apiKey | No |
+| [Ziraat Katılım](https://apiportal.ziraatkatilim.com.tr/en/) | Ziraat Katılım's API developer portal. | OAuth | Yes | 
 
 -----
 
@@ -48,6 +49,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | ------------- | ------------- | ------------- | ------------- |
 | [ATLAS API](https://cbs.csb.gov.tr/atlas-api-i-5437) | Coğrafi Bilgi Sistemleri Genel Müdürlüğü tarafından geliştirilip sunulan CBS API'si. | apiKey | Var |
 | [Altın Fiyatları (Genel Para)](https://api.genelpara.com/embed/altin.json) | Altın fiyatları sorgulama API'si. | apiKey | Var |
+| [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
 | [bip](https://bip.com/tr/category/dokumanlar/kesfet-api/) | Anlık mesajlaşma uygulaması. | OAuth | Var |
 | [Cumhurbaşkanlığı e-Yazışma API'leri](https://cbddo.gov.tr/projeler/e-yazisma/apiler/) | Cumhurbaşkanlığı Dijital Dönüşüm Ofisi elektronik yazışma API'leri. | OAuth | Var |
@@ -80,4 +82,5 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/api-catalog) | Türkiye'nin en büyük ikinci bankası. | OAuth | Var | 
 | [Yaani](https://api.yaani.com/) | Turkcell'in geliştirdiği yerli arama motoru. | OAuth | Var | 
 | [YaaniMail](https://api.yaanimail.com/) | Turkcell'e ait olan Yaani'nin e-posta platformu. | OAuth | Var | 
-
+| [YapıKredi](https://apiportal.yapikredi.com.tr/) | YapıKredi API portalı. | OAuth | Var | 
+| [Ziraat Katılım](https://apiportal.ziraatkatilim.com.tr/) | Ziraat Katılım API geliştirici portalı. | OAuth | Var | 
