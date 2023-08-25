@@ -64,6 +64,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
 | [İleti Merkezi](https://a2psmsapi.com/?ref=iletimerkezicom#apidoc) | Toplu SMS gönderme platformu.  | OAuth | Var |
+| [İleti Yönetim Sistemi](https://apidocs.iys.org.tr/) | İYS, ticari elektronik ileti izinleri yönetim, onaylama vb. etkinlikleri gerçekleştirmenizi mümkün kılan sistem.  | OAuth | Var |
 | [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
 | [iyzico](https://dev.iyzipay.com/tr/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
 | [Kripto Para Fiyatları (Genel Para)](https://api.genelpara.com/embed/kripto.json) | Kripto para fiyatları sorgulama API'si. | apiKey | Var |
