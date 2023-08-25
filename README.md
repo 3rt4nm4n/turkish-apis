@@ -79,6 +79,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Turkcell API](https://developer.turkcellesirket.com/) | Limitli API kullanımı ile çeşitli hizmetler sunan Turkcell API. | OAuth | Var | 
 | [Trendyol](https://developers.trendyol.com/tr) | E-ticaret ve online alışveriş firma. | OAuth | Var |
 | [Turkey SMS](https://turkeysms.com.tr/developer) | TÜRKİYE SMS mesajlaşma servis sağlayıcısı. | OAuth | Var |
+| [Tuzla Belediyesi](https://veri.tuzla.bel.tr/dataset/) | Burada çeşitli Tuzla belediyesi veri setlerine ulaşmak mümkün, bir verisetinin API haline tıklarsanız API'ına erişebilirsiniz. | apiKey | Var |
 | [TÜİK](https://data.tuik.gov.tr/) | Türkiye İstatistik Kurumu metaveri ve API noktası. | OAuth | Var |
 | [uludağ sözlük](http://www.uludagsozluk.com/api/?c=docs) | Uludağ Sözlük API'si. | OAuth | Var | 
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/api-catalog) | Türkiye'nin en büyük ikinci bankası. | OAuth | Var | 
