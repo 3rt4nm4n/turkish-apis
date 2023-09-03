@@ -26,7 +26,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | ------------- | ------------- | ------------- | ------------- |
 | [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | API and documentation page for developers of Akbank, one of the most well-known banks in Turkey. | OAuth | Yes |
 | [bip](https://bip.com/en/category/developer/discover-api/) | Instant messaging app. | OAuth | Yes |
-| [BtcTurk](https://api.btcturk.com) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | apiKey | Yes |
+| [BtcTurk](https://api.btcturk.com) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | OAuth | Yes |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | OAuth | Yes |
 | [DergiPark](https://dergipark.org.tr/api/public/v1/doc) | DergiPark is an online platform used for academic and scientific publishing. | apiKey | Yes |
 | [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşisözlük API. Ekşisözlük is a text based dictionary. | OAuth | Var |
