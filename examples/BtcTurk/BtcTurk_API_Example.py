@@ -8,7 +8,7 @@ import time # Used for time related functions. Zamanla ilgili fonksiyonlarda kul
 # Assign the url as BTC Turk's API. url'yi BTC Turk'ün API'si olarak ata.
 url="https://api.btcturk.com/api/v2/ticker"
 
-# Sett an infinite loop. Sonsuz bir döngü oluştur.
+# Set an infinite loop. Sonsuz bir döngü oluştur.
 while (1):
     # Send a GET request to the url. url'ye GET isteği ata.
     response=requests.get(url)
