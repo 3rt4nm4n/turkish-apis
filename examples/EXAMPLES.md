@@ -1,3 +1,3 @@
-Use cases of APIs will be listed in this directoy. 
+Use cases of APIs are listed in this directoy. 
 
-API'ların kullanımına dair örnekler bu klasörde listelenecektir.
+API'ların kullanımına dair örnekler bu klasörde bulunmaktadır.
