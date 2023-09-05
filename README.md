@@ -71,6 +71,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Kuveyt Türk](https://www.kuveytturk.com.tr/subesiz-bankacilik/api-bankaciligi/genel-ozellikler) | Kuveyt Türk bankacılık API'si. | apiKey | Var |
 | [Logo Yazılım](https://docs.logo.com.tr/public/lgap/logoapps-temelleri) | Türk yazılım şirketi. | apiKey | Var |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Türkiye'de B2C hizmeti sunan online alışveriş sitesi.  | apiKey | Var |
+| [NVİ KPS](https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx) | Nüfus ve Vatandaşlık İşleri Kimlik Paylaşım Sistemi.  | apiKey | Var |
 | [ODTÜ FTP](https://ftp.metu.edu.tr/) | ODTÜ FTP Hizmet Sayfası.  | apiKey | Var |
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
 | [Paycell API](https://paycell.com.tr/paycell-api/) | Sanal POS gibi ödeme alternatifleri sunan Paycell API'si. | apiKey | Var |
