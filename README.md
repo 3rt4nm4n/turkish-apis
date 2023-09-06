@@ -29,7 +29,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
 | [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | API and documentation page for developers of Akbank, one of the most well-known banks in Turkey. | OAuth | Yes |
-| [bip](https://bip.com/en/category/developer/discover-api/) | Instant messaging app. | OAuth | Yes |
+| [bip](https://bip.com/eng/category/getting-started/index.html) | Instant messaging app. | OAuth | Yes |
 | [BtcTurk](https://api.btcturk.com) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | OAuth | Yes |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | OAuth | Yes |
 | [DergiPark](https://dergipark.org.tr/api/public/v1/doc) | DergiPark is an online platform used for academic and scientific publishing. | apiKey | Yes |
@@ -56,7 +56,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Altın Fiyatları (Genel Para)](https://api.genelpara.com/embed/altin.json) | Altın fiyatları sorgulama API'si. | apiKey | Var |
 | [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
-| [bip](https://bip.com/tr/category/dokumanlar/kesfet-api/) | Anlık mesajlaşma uygulaması. | OAuth | Var |
+| [bip](https://bip.com/tur/category/dokumanlar/kesfet-api/index.html) | Anlık mesajlaşma uygulaması. | OAuth | Var |
 | [Cumhurbaşkanlığı e-Yazışma API'leri](https://cbddo.gov.tr/projeler/e-yazisma/apiler/) | Cumhurbaşkanlığı Dijital Dönüşüm Ofisi elektronik yazışma API'leri. | OAuth | Var |
 | [Dia](https://doc.dia.com.tr/doku.php?id=gelistirici:wsapi:anasayfa) | Kurumsal kaynak planlama çözümleri geliştiren ve bunu API yoluyla kullanmayı sağlayan bir şirket. | OAuth | Var |
 | [Döviz Kurları (Genel Para)](https://api.genelpara.com/embed/doviz.json) | Döviz kurları sorgulama API'si. | apiKey | Var |
