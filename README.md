@@ -63,7 +63,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [ECC-İTÜ](https://www.ecc.itu.edu.tr/api.php) | İTÜ ECC grubunun API'si. | apiKey/OAuth | Var |
 | [EDM](https://docs.edmbilisim.com.tr/api/api-documentation/introduction.html) | E-fatura ve çeşitli elektronik belgelerin geliştirilmesini sağlayan bir API. | OAuth | Var |
 | [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşi Sözlük API'si. | OAuth | Var |
-| [e-Nabız](https://ussservis.saglik.gov.tr/) | Kişisel sağlık bilgilerinin yönetildiği ve sağlık ile ilgili işlemlerin kolayca yapıldığı site. | apiKey | Var |
+| [e-Nabız / e-Sağlık](https://ussservis.saglik.gov.tr/) | Kişisel sağlık bilgilerinin yönetildiği ve sağlık ile ilgili işlemlerin kolayca yapıldığı site. | OAuth | Var |
 | [EPİAŞ](https://seffaflik.epias.com.tr/transparency/technical/tr/) | Enerji Piyasaları İşletme A.Ş., bu API ile güncel elektrik kesintileri, doğalgaz bülteni vb. bilgiler almak mümkün. | Unknown | Var |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
