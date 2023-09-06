@@ -45,4 +45,4 @@ try:
 
 # If the request was not successful return an error message. Eğer istek başarılı değilse hata mesajı döndür
 except Exception as e:
-  print(f"Request failed: {e}")
+    print("Hata:",e,"\n","Lütfen daha sonra tekrar deneyiniz.")
