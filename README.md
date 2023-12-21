@@ -58,6 +58,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
 | [bip](https://bip.com/tur/category/dokumanlar/kesfet-api/index.html) | Anlık mesajlaşma uygulaması. | OAuth | Var |
+| [Bulutfon](https://api.bulutfon.com/docs) | Telekomünikasyon, CRM&ERP, webhook vb. çözümler sunan bir şirket. | apiKey | Var |
 | [Bulut Santralim](https://www.bulutsantralim.com/dokumanlar/api-dokumani/) | Sanal santral. | apiKey | Var |
 | [Cumhurbaşkanlığı e-Yazışma API'leri](https://cbddo.gov.tr/projeler/e-yazisma/apiler/) | Cumhurbaşkanlığı Dijital Dönüşüm Ofisi elektronik yazışma API'leri. | OAuth | Var |
 | [Dia](https://doc.dia.com.tr/doku.php?id=gelistirici:wsapi:anasayfa) | Kurumsal kaynak planlama çözümleri geliştiren ve bunu API yoluyla kullanmayı sağlayan bir şirket. | OAuth | Var |
