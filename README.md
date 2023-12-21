@@ -69,6 +69,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [EPİAŞ](https://seffaflik.epias.com.tr/transparency/technical/tr/) | Enerji Piyasaları İşletme A.Ş., bu API ile güncel elektrik kesintileri, doğalgaz bülteni vb. bilgiler almak mümkün. | Unknown | Var |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
+| [İçerik Bulutu](https://www.icerikbulutu.com/teknolojiler/icerik-bulutu-api) | Bulut tabanlı içerik üretim platformu.  | OAuth | Var |
 | [İleti Merkezi](https://a2psmsapi.com/?ref=iletimerkezicom#apidoc) | Toplu SMS gönderme platformu.  | OAuth | Var |
 | [İleti Yönetim Sistemi](https://apidocs.iys.org.tr/) | İYS, ticari elektronik ileti izinleri yönetim, onaylama vb. etkinlikleri gerçekleştirmenizi mümkün kılan sistem.  | OAuth | Var |
 | [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
