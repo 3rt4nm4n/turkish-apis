@@ -28,14 +28,15 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
-| [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | API and documentation page for developers of Akbank, one of the most well-known banks in Turkey. | OAuth | Yes |
+| [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | API and documentation page for developers of Akbank, one of the most known banks in Turkey. | OAuth | Yes |
 | [bip](https://bip.com/eng/category/getting-started/index.html) | Instant messaging app. | OAuth | Yes |
 | [BtcTurk](https://api.btcturk.com) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | OAuth | Yes |
 | [Countly](https://api.count.ly/reference/api-key) | Countly is a product analytics platform that improves customer experiences across online, mobile, and desktop apps by providing customizability and privacy-first approaches to innovative product development.  | apiKey | Yes |
 | [Dahi.ai](https://docs.dahi.ai/) | Lets you build bots without any coding knowledge.  | OAuth | No |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | OAuth | Yes |
 | [DergiPark](https://dergipark.org.tr/api/public/v1/doc) | DergiPark is an online platform used for academic and scientific publishing. | apiKey | Yes |
-| [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşisözlük API. Ekşisözlük is a text based dictionary. | OAuth | Var |
+| [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşisözlük API. Ekşisözlük is a text based dictionary. | OAuth | Yes |
+| [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home.html) |  API and documentation page for developers of Garanti BBVA, one of the most known banks in Turkey. | OAuth | Yes |
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
 | [İş Bankası](https://developer.isbank.com.tr/Pages/home.aspx) | Largest Turkish private bank.  | OAuth | Yes |
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
@@ -43,7 +44,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
 | [Repetiti 3D Printer Controller API](https://developers.repetiti.com/) | API Documentation for Repetiti which is used for 3D printer controlling | OAuth | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
-| [TURKSTAT](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Var |
+| [TURKSTAT](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Yes |
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/en/api-catalog) | Second most active and largest bank in Turkey. | OAuth | Yes | 
 | [Yemeksepeti](http://messaging.yemeksepeti.com/MessagingWebService/Integration.asmx) | Unofficial API for Yemeksepeti which is an online food ordering site. | apiKey | No |
 | [Ziraat Katılım](https://apiportal.ziraatkatilim.com.tr/en/) | Ziraat Katılım's API developer portal. | OAuth | Yes | 
@@ -71,6 +72,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [e-Nabız / e-Sağlık](https://ussservis.saglik.gov.tr/) | Kişisel sağlık bilgilerinin yönetildiği ve sağlık ile ilgili işlemlerin kolayca yapıldığı site. | OAuth | Var |
 | [EPİAŞ](https://seffaflik.epias.com.tr/transparency/technical/tr/) | Enerji Piyasaları İşletme A.Ş., bu API ile güncel elektrik kesintileri, doğalgaz bülteni vb. bilgiler almak mümkün. | Unknown | Var |
 | [Etkinlik.io](https://etkinlik.io/api/bilgi) | Türkiye'deki konser, tiyatro vb. etkinlikleri toplayan ve öneren bir platform. | apiKey | Var |
+| [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home_tr.html) |  Türkiye'nin en bilinen bankalarından Garanti BBVA'nın geliştiricilerine yönelik API ve dokümantasyon sayfası. | OAuth | Yes |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
 | [İçerik Bulutu](https://www.icerikbulutu.com/teknolojiler/icerik-bulutu-api) | Bulut tabanlı içerik üretim platformu.  | OAuth | Var |
