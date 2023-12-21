@@ -53,6 +53,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | API  | TANIM | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
 | [ATLAS API](https://cbs.csb.gov.tr/atlas-api-i-5437) | Coğrafi Bilgi Sistemleri Genel Müdürlüğü tarafından geliştirilip sunulan CBS API'si. | apiKey | Var |
+| [AloTech API](https://api.alo-tech.com/) | Çağrı merkezi. | apiKey | Var |
 | [Altın Fiyatları (Genel Para)](https://api.genelpara.com/embed/altin.json) | Altın fiyatları sorgulama API'si. | apiKey | Var |
 | [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
