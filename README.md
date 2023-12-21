@@ -70,6 +70,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşi Sözlük API'si. | OAuth | Var |
 | [e-Nabız / e-Sağlık](https://ussservis.saglik.gov.tr/) | Kişisel sağlık bilgilerinin yönetildiği ve sağlık ile ilgili işlemlerin kolayca yapıldığı site. | OAuth | Var |
 | [EPİAŞ](https://seffaflik.epias.com.tr/transparency/technical/tr/) | Enerji Piyasaları İşletme A.Ş., bu API ile güncel elektrik kesintileri, doğalgaz bülteni vb. bilgiler almak mümkün. | Unknown | Var |
+| [Etkinlik.io](https://etkinlik.io/api/bilgi) | Türkiye'deki konser, tiyatro vb. etkinlikleri toplayan ve öneren bir platform. | apiKey | Var |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
 | [İçerik Bulutu](https://www.icerikbulutu.com/teknolojiler/icerik-bulutu-api) | Bulut tabanlı içerik üretim platformu.  | OAuth | Var |
