@@ -103,4 +103,5 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Yaani](https://api.yaani.com/) | Turkcell'in geliştirdiği yerli arama motoru. | OAuth | Var | 
 | [YaaniMail](https://api.yaanimail.com/) | Turkcell'e ait olan Yaani'nin e-posta platformu. | OAuth | Var | 
 | [YapıKredi](https://apiportal.yapikredi.com.tr/) | YapıKredi API portalı. | OAuth | Var | 
-| [Ziraat Katılım](https://apiportal.ziraatkatilim.com.tr/) | Ziraat Katılım API geliştirici portalı. | OAuth | Var | 
+| [Ziraat Katılım](https://apiportal.ziraatkatilim.com.tr/) | Ziraat Katılım API geliştirici portalı. | OAuth | Var |
+| [Ürün Barkod API ](https://market.camgoz.net/swagger-ui/index.html) | 7000'den fazla market ürününün en güncel bilgilerini(isim, fiyat, barkod vb.) içerir. | apiKey | Var | 
