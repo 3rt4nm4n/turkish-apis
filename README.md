@@ -44,7 +44,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
 | [Repetiti 3D Printer Controller API](https://developers.repetiti.com/) | API Documentation for Repetiti which is used for 3D printer controlling | OAuth | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
-| [TURKSTAT](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Yes |
+| [TUIK](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Yes |
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/en/api-catalog) | Second most active and largest bank in Turkey. | OAuth | Yes | 
 | [Yemeksepeti](http://messaging.yemeksepeti.com/MessagingWebService/Integration.asmx) | Unofficial API for Yemeksepeti which is an online food ordering site. | apiKey | No |
 | [Ziraat Katılım](https://apiportal.ziraatkatilim.com.tr/en/) | Ziraat Katılım's API developer portal. | OAuth | Yes | 
