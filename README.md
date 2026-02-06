@@ -35,14 +35,12 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Dahi.ai](https://docs.dahi.ai/) | Lets you build bots without any coding knowledge.  | OAuth | No |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | OAuth | Yes |
 | [DergiPark](https://dergipark.org.tr/api/public/oai/) | DergiPark is an online platform used for academic and scientific publishing. | apiKey | Yes |
-| [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşisözlük API. Ekşisözlük is a text based dictionary. | OAuth | Yes |
 | [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home.html) |  API and documentation page for developers of Garanti BBVA, one of the most known banks in Turkey. | OAuth | Yes |
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
 | [İş Bankası](https://developer.isbank.com.tr/Pages/home.aspx) | Largest Turkish private bank.  | OAuth | Yes |
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
 | [Kuveyt Türk](https://developer.kuveytturk.com.tr/) | Kuveyt Turk's API for API banking system.  | apiKey | Yes |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
-| [Repetiti 3D Printer Controller API](https://developers.repetiti.com/) | API Documentation for Repetiti which is used for 3D printer controlling | OAuth | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
 | [TURKSTAT](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Yes |
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/en/api-catalog) | Second most active and largest bank in Turkey. | OAuth | Yes | 
