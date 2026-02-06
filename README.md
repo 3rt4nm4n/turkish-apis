@@ -34,7 +34,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Countly](https://api.count.ly/reference/api-key) | Countly is a product analytics platform that improves customer experiences across online, mobile, and desktop apps by providing customizability and privacy-first approaches to innovative product development.  | apiKey | Yes |
 | [Dahi.ai](https://docs.dahi.ai/) | Lets you build bots without any coding knowledge.  | OAuth | No |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | OAuth | Yes |
-| [DergiPark](https://dergipark.org.tr/api/public/v1/doc) | DergiPark is an online platform used for academic and scientific publishing. | apiKey | Yes |
+| [DergiPark](https://dergipark.org.tr/api/public/oai/) | DergiPark is an online platform used for academic and scientific publishing. | apiKey | Yes |
 | [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşisözlük API. Ekşisözlük is a text based dictionary. | OAuth | Yes |
 | [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home.html) |  API and documentation page for developers of Garanti BBVA, one of the most known banks in Turkey. | OAuth | Yes |
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
