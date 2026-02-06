@@ -37,15 +37,17 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [DergiPark](https://dergipark.org.tr/api/public/oai/) | DergiPark is an online platform used for academic and scientific publishing. | apiKey | Yes |
 | [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home.html) |  API and documentation page for developers of Garanti BBVA, one of the most known banks in Turkey. | OAuth | Yes |
 | [ininal](https://developer.ininal.com/) | ininal is a Turkish virtual card brand and it is a known online banking platform.  | OAuth | Yes |
+| [intertech](https://api.intertech.com.tr/) | APIs provided by a Turkey based technology and software company intertech.  | OAuth | Yes |
 | [İş Bankası](https://developer.isbank.com.tr/Pages/home.aspx) | Largest Turkish private bank.  | OAuth | Yes |
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
 | [Kuveyt Türk](https://developer.kuveytturk.com.tr/) | Kuveyt Turk's API for API banking system.  | apiKey | Yes |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
+| [QNB](https://developer.qnb.com.tr/landing) | API and documentation page for developers of QNB Finansbank.  | OAuth | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
 | [TURKSTAT](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Yes |
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/en/api-catalog) | Second most active and largest bank in Turkey. | OAuth | Yes | 
-| [Yemeksepeti](http://messaging.yemeksepeti.com/MessagingWebService/Integration.asmx) | Unofficial API for Yemeksepeti which is an online food ordering site. | apiKey | No |
-| [Ziraat Katılım](https://apiportal.ziraatkatilim.com.tr/en/) | Ziraat Katılım's API developer portal. | OAuth | Yes | 
+| [Yemeksepeti](https://developer.yemeksepeti.com/en) | API for Yemeksepeti which is an online food ordering site. | apiKey | No |
+| [Ziraat Katılım](https://developer.ziraatkatilim.com.tr/) | Ziraat Katılım's API developer portal. | OAuth | Yes | 
 
 -----
 
@@ -53,7 +55,8 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 
 | API  | TANIM | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
-| [ATLAS API](https://cbs.csb.gov.tr/atlas-api-i-5437) | Coğrafi Bilgi Sistemleri Genel Müdürlüğü tarafından geliştirilip sunulan CBS API'si. | apiKey | Var |
+| [Atlas API](https://api.harita.gov.tr/atlasapidoc/hari%CC%87talar) | Harita Genel Müdürlüğü Atlas API'si. | apiKey | Var |
+| [Albaraka Türk](https://developer.albarakaturk.com.tr/) | Albaraka Türk bankacılık API'si. | OAuth | Var |
 | [AloTech API](https://api.alo-tech.com/) | Çağrı merkezi. | apiKey | Var |
 | [Altın Fiyatları (Genel Para)](https://api.genelpara.com/embed/altin.json) | Altın fiyatları sorgulama API'si. | apiKey | Var |
 | [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
@@ -70,6 +73,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [e-Nabız / e-Sağlık](https://ussservis.saglik.gov.tr/) | Kişisel sağlık bilgilerinin yönetildiği ve sağlık ile ilgili işlemlerin kolayca yapıldığı site. | OAuth | Var |
 | [EPİAŞ](https://seffaflik.epias.com.tr/transparency/technical/tr/) | Enerji Piyasaları İşletme A.Ş., bu API ile güncel elektrik kesintileri, doğalgaz bülteni vb. bilgiler almak mümkün. | Unknown | Var |
 | [Etkinlik.io](https://etkinlik.io/api/bilgi) | Türkiye'deki konser, tiyatro vb. etkinlikleri toplayan ve öneren bir platform. | apiKey | Var |
+| [FedEx](https://www.fedex.com/tr-tr/shipping-tools/direct-integrations/api.html) | FedEx kargo lojistik API'si. | OAuth | Var |
 | [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home_tr.html) |  Türkiye'nin en bilinen bankalarından Garanti BBVA'nın geliştiricilerine yönelik API ve dokümantasyon sayfası. | OAuth | Yes |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
@@ -81,6 +85,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Kripto Para Fiyatları (Genel Para)](https://api.genelpara.com/embed/kripto.json) | Kripto para fiyatları sorgulama API'si. | apiKey | Var |
 | [Kuveyt Türk](https://www.kuveytturk.com.tr/subesiz-bankacilik/api-bankaciligi/genel-ozellikler) | Kuveyt Türk bankacılık API'si. | apiKey | Var |
 | [Logo Yazılım](https://docs.logo.com.tr/public/lgap/logoapps-temelleri) | Türk yazılım şirketi. | apiKey | Var |
+| [Mouser Electronics](https://docs.logo.com.tr/public/lgap/logoapps-temelleri) | ABD merkezli elektronik komponent distribütörü Mouser Electronics'in Türkçe API'si. | apiKey | Var |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Türkiye'de B2C hizmeti sunan online alışveriş sitesi.  | apiKey | Var |
 | [NVİ KPS](https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx) | Nüfus ve Vatandaşlık İşleri Kimlik Paylaşım Sistemi.  | apiKey | Var |
 | [ODTÜ FTP](https://ftp.metu.edu.tr/) | ODTÜ FTP Hizmet Sayfası.  | apiKey | Var |
@@ -96,10 +101,12 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Turkey SMS](https://turkeysms.com.tr/developer) | TÜRKİYE SMS mesajlaşma servis sağlayıcısı. | OAuth | Var |
 | [Tuzla Belediyesi](https://veri.tuzla.bel.tr/dataset/) | Burada çeşitli Tuzla belediyesi veri setlerine ulaşmak mümkün, bir verisetinin API haline tıklarsanız API'ına erişebilirsiniz. | apiKey | Var |
 | [TÜİK](https://data.tuik.gov.tr/) | Türkiye İstatistik Kurumu metaveri ve API noktası. | OAuth | Var |
+| [UETDS](https://uetds.uab.gov.tr/uploads/pages/teknik-dokuman/uetds-arizi-yolcu-tasimaciligi-kurum-entegrasyonu-teknik-tasarim-dokumani-v8-0-5f4e9a1503057.pdf) | Ulaştırma Elektronik Takip Denetim Sistemi API dökümanı, link dökümanda. | SOAP basic authentication | Var | 
 | [uludağ sözlük](http://www.uludagsozluk.com/api/?c=docs) | Uludağ Sözlük API'si. | OAuth | Var | 
+| [USOM](https://www.usom.gov.tr/api/) | Ulusal Siber Olaylara Müdahale Merkezi API'si. | apiKey | Var | 
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/api-catalog) | Türkiye'nin en büyük ikinci bankası. | OAuth | Var | 
 | [Yaani](https://api.yaani.com/) | Turkcell'in geliştirdiği yerli arama motoru. | OAuth | Var | 
 | [YaaniMail](https://api.yaanimail.com/) | Turkcell'e ait olan Yaani'nin e-posta platformu. | OAuth | Var | 
 | [YapıKredi](https://apiportal.yapikredi.com.tr/) | YapıKredi API portalı. | OAuth | Var | 
-| [Ziraat Katılım](https://apiportal.ziraatkatilim.com.tr/) | Ziraat Katılım API geliştirici portalı. | OAuth | Var |
+| [Ziraat Katılım](https://developer.ziraatkatilim.com.tr/) | Ziraat Katılım API geliştirici portalı. | OAuth | Var |
 | [Ürün Barkod API ](https://market.camgoz.net/swagger-ui/index.html) | 7000'den fazla market ürününün en güncel bilgilerini(isim, fiyat, barkod vb.) içerir. | apiKey | Var | 
