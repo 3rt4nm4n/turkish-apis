@@ -30,7 +30,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | ------------- | ------------- | ------------- | ------------- |
 | [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | API and documentation page for developers of Akbank, one of the most known banks in Turkey. | OAuth | Yes |
 | [bip](https://bip.com/eng/category/getting-started/index.html) | Instant messaging app. | OAuth | Yes |
-| [BtcTurk](https://api.btcturk.com) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | OAuth | Yes |
+| [BtcTurk](https://docs.btcturk.com/docs/general-information) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | OAuth | Yes |
 | [Countly](https://api.count.ly/reference/api-key) | Countly is a product analytics platform that improves customer experiences across online, mobile, and desktop apps by providing customizability and privacy-first approaches to innovative product development.  | apiKey | Yes |
 | [Dahi.ai](https://docs.dahi.ai/) | Lets you build bots without any coding knowledge.  | OAuth | No |
 | [denizbank](https://api.denizbank.at/) | Denizbank offers developers various banking related accesibilities and applications on this platform.  | OAuth | Yes |
