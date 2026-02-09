@@ -58,7 +58,6 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | ------------- | ------------- | ------------- | ------------- |
 | [Atlas API](https://api.harita.gov.tr/atlasapidoc/hari%CC%87talar) | Harita Genel Müdürlüğü Atlas API'si. | apiKey | Var |
 | [AloTech API](https://developer.alo-tech.com/) | Çağrı merkezi. | apiKey | Var |
-| [Altın Fiyatları (Genel Para)](https://api.genelpara.com/embed/altin.json) | Altın fiyatları sorgulama API'si. | apiKey | Var |
 | [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
 | [bip](https://bip.com/tur/category/dokumanlar/kesfet-api/index.html) | Anlık mesajlaşma uygulaması. | OAuth | Var |
@@ -75,6 +74,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Etkinlik.io](https://etkinlik.io/api/bilgi) | Türkiye'deki konser, tiyatro vb. etkinlikleri toplayan ve öneren bir platform. | apiKey | Var |
 | [FedEx](https://www.fedex.com/tr-tr/shipping-tools/direct-integrations/api.html) | FedEx kargo lojistik API'si. | OAuth | Var |
 | [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home_tr.html) |  Türkiye'nin en bilinen bankalarından Garanti BBVA'nın geliştiricilerine yönelik API ve dokümantasyon sayfası. | OAuth | Yes |
+| [Genel Para](https://api.genelpara.com/) | Finansal piyasa verilerini sunan API. | apiKey | Var |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
 | [İçerik Bulutu](https://www.icerikbulutu.com/teknolojiler/icerik-bulutu-api) | Bulut tabanlı içerik üretim platformu.  | OAuth | Var |
