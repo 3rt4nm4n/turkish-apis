@@ -59,6 +59,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Atlas API](https://api.harita.gov.tr/atlasapidoc/hari%CC%87talar) | Harita Genel Müdürlüğü Atlas API'si. | apiKey | Var |
 | [AloTech API](https://developer.alo-tech.com/) | Çağrı merkezi. | apiKey | Var |
 | [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
+| [Barkod API ](https://camgoz.net/swagger) | 150.000'den fazla market ürününün en güncel bilgilerini(isim, fiyat, barkod vb.) sunar. | apiKey | Var | 
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
 | [bip](https://bip.com/tur/category/dokumanlar/kesfet-api/index.html) | Anlık mesajlaşma uygulaması. | OAuth | Var |
 | [Bulutfon](https://api.bulutfon.com/docs) | Telekomünikasyon, CRM&ERP, webhook vb. çözümler sunan bir şirket. | apiKey | Var |
@@ -106,4 +107,3 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [YaaniMail](https://api.yaanimail.com/) | Turkcell'e ait olan Yaani'nin e-posta platformu. | OAuth | Var | 
 | [YapıKredi](https://apiportal.yapikredi.com.tr/) | YapıKredi API portalı. | OAuth | Var | 
 | [Ziraat Katılım](https://developer.ziraatkatilim.com.tr/) | Ziraat Katılım API geliştirici portalı. | OAuth | Var |
-| [Ürün Barkod API ](https://market.camgoz.net/swagger-ui/index.html) | 7000'den fazla market ürününün en güncel bilgilerini(isim, fiyat, barkod vb.) içerir. | apiKey | Var | 
