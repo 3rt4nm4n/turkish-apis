@@ -81,7 +81,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [İleti Merkezi](https://a2psmsapi.com/?ref=iletimerkezicom#apidoc) | Toplu SMS gönderme platformu.  | OAuth | Var |
 | [İleti Yönetim Sistemi](https://apidocs.iys.org.tr/) | İYS, ticari elektronik ileti izinleri yönetim, onaylama vb. etkinlikleri gerçekleştirmenizi mümkün kılan sistem.  | OAuth | Var |
 | [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
-| [iyzico](https://dev.iyzipay.com/tr/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | OAuth | Var |
+| [iyzico](https://docs.iyzico.com/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | apiKey | Var |
 | [Kripto Para Fiyatları (Genel Para)](https://api.genelpara.com/embed/kripto.json) | Kripto para fiyatları sorgulama API'si. | apiKey | Var |
 | [Kuveyt Türk](https://www.kuveytturk.com.tr/subesiz-bankacilik/api-bankaciligi/genel-ozellikler) | Kuveyt Türk bankacılık API'si. | apiKey | Var |
 | [Logo Yazılım](https://docs.logo.com.tr/public/lgap/logoapps-temelleri) | Türk yazılım şirketi. | apiKey | Var |
