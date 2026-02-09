@@ -88,7 +88,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [ODTÜ FTP](https://ftp.metu.edu.tr/) | ODTÜ FTP Hizmet Sayfası.  | apiKey | Var |
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
 | [Paycell SDK](https://paycell.com.tr/paycell-sdk) | Paycell ile ödeme akışını (iOS/Android/Web) uygulamana entegre etmeye yarayan SDK. | MerchantCode | Var |
-| [payfull](https://www.payfull.com/ozel-cozumler-ve-api) | İşletmelere özel sanal POS hizmeti sunan bir şirket.  | apiKey | Var |
+| [Payfull](https://www.payfull.com/odeme-gecidi/) | Sanal POS ve ödeme işlemleri için Payment Gateway API sunan ödeme hizmeti sağlayıcısı.  | apiKey | Var |
 | [Sermaye Piyasası Kurulu](https://ws.spk.gov.tr/help/index.html) | Sermaye Piyasası Kurulu (SPK) tarafından sunulan web servisleri bulunmaktadır.  | apiKey | Var |
 | [Sourberry](https://www.sourberry.org/api.php) | Ekşi sözlük yazarları tarafından oluşturulmuş herkese açık bir internet radyosudur.  | apiKey | Var |
 | [Şehir Haritası API](https://sehirharitasi.ibb.gov.tr/developer/index.html) | Kendi haritanızı geliştirmenize yarayan İBB tarafından sunulan bir API.  | OAuth | Var |
