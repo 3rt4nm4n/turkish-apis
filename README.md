@@ -29,6 +29,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | API  | DESC | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
 | [Akbank API Portal](https://apiportal.akbank.com/pages/home.html) | API and documentation page for developers of Akbank, one of the most known banks in Turkey. | OAuth | Yes |
+| [Albaraka Türk](https://developer.albarakaturk.com.tr/) | Albaraka Türk bankacılık API'si. | OAuth | Yes |
 | [bip](https://bip.com/eng/category/getting-started/index.html) | Instant messaging app. | OAuth | Yes |
 | [BtcTurk](https://docs.btcturk.com/docs/general-information) | A cryptocurrency API provided by Turkish third party crypto market BtcTurk. | OAuth | Yes |
 | [Countly](https://api.count.ly/reference/api-key) | Countly is a product analytics platform that improves customer experiences across online, mobile, and desktop apps by providing customizability and privacy-first approaches to innovative product development.  | apiKey | Yes |
@@ -56,7 +57,6 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | API  | TANIM | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
 | [Atlas API](https://api.harita.gov.tr/atlasapidoc/hari%CC%87talar) | Harita Genel Müdürlüğü Atlas API'si. | apiKey | Var |
-| [Albaraka Türk](https://developer.albarakaturk.com.tr/) | Albaraka Türk bankacılık API'si. | OAuth | Var |
 | [AloTech API](https://api.alo-tech.com/) | Çağrı merkezi. | apiKey | Var |
 | [Altın Fiyatları (Genel Para)](https://api.genelpara.com/embed/altin.json) | Altın fiyatları sorgulama API'si. | apiKey | Var |
 | [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
