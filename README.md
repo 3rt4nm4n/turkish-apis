@@ -65,7 +65,6 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Bulut Santralim](https://www.bulutsantralim.com/dokumanlar/api-dokumani/) | Sanal santral. | apiKey | Var |
 | [Cumhurbaşkanlığı e-Yazışma API'leri](https://cbddo.gov.tr/projeler/e-yazisma/apiler/) | Cumhurbaşkanlığı Dijital Dönüşüm Ofisi elektronik yazışma API'leri. | OAuth | Var |
 | [Dia](https://doc.dia.com.tr/doku.php?id=gelistirici:wsapi:anasayfa) | Kurumsal kaynak planlama çözümleri geliştiren ve bunu API yoluyla kullanmayı sağlayan bir şirket. | OAuth | Var |
-| [Döviz Kurları (Genel Para)](https://api.genelpara.com/embed/doviz.json) | Döviz kurları sorgulama API'si. | apiKey | Var |
 | [ECC-İTÜ](https://www.ecc.itu.edu.tr/api.php) | İTÜ ECC grubunun API'si. | apiKey/OAuth | Var |
 | [EDM](https://docs.edmbilisim.com.tr/api/api-documentation/introduction.html) | E-fatura ve çeşitli elektronik belgelerin geliştirilmesini sağlayan bir API. | OAuth | Var |
 | [ekşi sözlük](https://eksisozluk.herokuapp.com/) | Ekşi Sözlük API'si. | OAuth | Var |
@@ -74,7 +73,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Etkinlik.io](https://etkinlik.io/api/bilgi) | Türkiye'deki konser, tiyatro vb. etkinlikleri toplayan ve öneren bir platform. | apiKey | Var |
 | [FedEx](https://www.fedex.com/tr-tr/shipping-tools/direct-integrations/api.html) | FedEx kargo lojistik API'si. | OAuth | Var |
 | [Garanti BBVA](https://developers.garantibbva.com.tr/pages/Home_tr.html) |  Türkiye'nin en bilinen bankalarından Garanti BBVA'nın geliştiricilerine yönelik API ve dokümantasyon sayfası. | OAuth | Yes |
-| [Genel Para](https://api.genelpara.com/) | Finansal piyasa verilerini sunan API. | apiKey | Var |
+| [Genel Para](https://api.genelpara.com/) | Finansal piyasa verilerini sunan API. | OAuth | Var |
 | [hepsiburada](https://developers.hepsiburada.com/?docs=dokuman/baslangic) | E-ticaret ve online alışveriş sağlayan bir firma. | OAuth | Var |
 | [HaberApi](https://www.haberapi.com/index) | Premium/Ücretli haber yazılımı sunan API sitesi. | OAuth | Var |
 | [İçerik Bulutu](https://www.icerikbulutu.com/teknolojiler/icerik-bulutu-api) | Bulut tabanlı içerik üretim platformu.  | OAuth | Var |
@@ -82,7 +81,6 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [İleti Yönetim Sistemi](https://apidocs.iys.org.tr/) | İYS, ticari elektronik ileti izinleri yönetim, onaylama vb. etkinlikleri gerçekleştirmenizi mümkün kılan sistem.  | OAuth | Var |
 | [ininal](https://developer.ininal.com/) | ininal Türkiye'de sanal, mobil ve online bankacılık altyapısı sunan bir platformdur.  | OAuth | Var |
 | [iyzico](https://docs.iyzico.com/) | Türkiye'de sanal POS hizmeti sunan bir şirket.  | apiKey | Var |
-| [Kripto Para Fiyatları (Genel Para)](https://api.genelpara.com/embed/kripto.json) | Kripto para fiyatları sorgulama API'si. | apiKey | Var |
 | [Kuveyt Türk](https://www.kuveytturk.com.tr/subesiz-bankacilik/api-bankaciligi/genel-ozellikler) | Kuveyt Türk bankacılık API'si. | apiKey | Var |
 | [Logo Yazılım](https://docs.logo.com.tr/public/lgap/logoapps-temelleri) | Türk yazılım şirketi. | apiKey | Var |
 | [Mouser Electronics](https://docs.logo.com.tr/public/lgap/logoapps-temelleri) | ABD merkezli elektronik komponent distribütörü Mouser Electronics'in Türkçe API'si. | apiKey | Var |
