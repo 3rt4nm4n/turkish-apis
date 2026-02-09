@@ -91,7 +91,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [Payfull](https://www.payfull.com/odeme-gecidi/) | Sanal POS ve ödeme işlemleri için Payment Gateway API sunan ödeme hizmeti sağlayıcısı.  | apiKey | Var |
 | [Sermaye Piyasası Kurulu](https://ws.spk.gov.tr/help/index.html) | Sermaye Piyasası Kurulu (SPK) tarafından sunulan web servisleri bulunmaktadır.  | apiKey | Var |
 | [Sourberry](https://www.sourberry.org/api.php) | Ekşi sözlük yazarları tarafından oluşturulmuş herkese açık bir internet radyosudur.  | apiKey | Var |
-| [Şehir Haritası API](https://sehirharitasi.ibb.gov.tr/developer/index.html) | Kendi haritanızı geliştirmenize yarayan İBB tarafından sunulan bir API.  | OAuth | Var |
+| [Şehir Haritası API](https://sehirharitasiapi.ibb.gov.tr/developer/index.html) | Kendi haritanızı geliştirmenize yarayan İBB tarafından sunulan bir API.  | apiKey | Var |
 | [TCMB EVDS](https://evds2.tcmb.gov.tr/index.php?/evds/userDocs) | TCMB Elektronik Veri Dağıtım Sistemi API kullanıcı dökümanları. | apiKey | Var | 
 | [Turkcell API](https://developer.turkcellesirket.com/) | Limitli API kullanımı ile çeşitli hizmetler sunan Turkcell API. | OAuth | Var | 
 | [Trendyol](https://developers.trendyol.com/tr) | E-ticaret ve online alışveriş firma. | OAuth | Var |
