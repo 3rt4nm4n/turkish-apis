@@ -57,7 +57,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | API  | TANIM | Auth | HTTPS |
 | ------------- | ------------- | ------------- | ------------- |
 | [Atlas API](https://api.harita.gov.tr/atlasapidoc/hari%CC%87talar) | Harita Genel Müdürlüğü Atlas API'si. | apiKey | Var |
-| [AloTech API](https://api.alo-tech.com/) | Çağrı merkezi. | apiKey | Var |
+| [AloTech API](https://developer.alo-tech.com/) | Çağrı merkezi. | apiKey | Var |
 | [Altın Fiyatları (Genel Para)](https://api.genelpara.com/embed/altin.json) | Altın fiyatları sorgulama API'si. | apiKey | Var |
 | [Anadolu Hayat Emeklilik](https://developers.anadoluhayat.com.tr/tr/) | Anadolu Hayat Emeklilik API'ı bordro entegrasyonu gibi çeşitli geliştirmelere açık bir API. | OAuth | Var |
 | [Barkod Oku](https://www.barkodoku.com/BarkodAPI) | Barkod sorgulama sitesi. | apiKey | Var |
