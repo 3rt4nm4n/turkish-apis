@@ -43,6 +43,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [iyzico](https://dev.iyzipay.com/en/) | A company that offers virtual POS services in Turkey.  | OAuth | Yes |
 | [Kuveyt Türk](https://developer.kuveytturk.com.tr/) | Kuveyt Turk's API for API banking system.  | apiKey | Yes |
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Online shopping site offering B2C service in Turkey.  | apiKey | Yes |
+| [Paribu](https://docs.paribu.com/api) | API and documentation page for developers of Paribu, Turkey's leading cryptocurrency exchange. | apiKey | Yes |
 | [QNB](https://developer.qnb.com.tr/landing) | API and documentation page for developers of QNB Finansbank.  | OAuth | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
 | [TUIK](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Yes |
@@ -88,6 +89,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [n11](https://magazadestek.n11.com/faydali-dokumanlar) | Türkiye'de B2C hizmeti sunan online alışveriş sitesi.  | apiKey | Var |
 | [ODTÜ FTP](https://ftp.metu.edu.tr/) | ODTÜ FTP Hizmet Sayfası.  | apiKey | Var |
 | [papara](https://merchant-api.papara.com/) | Kripto para alım satım, fiyatlar gibi çeşitli özellikler sunan online borsa. | apiKey | Var |
+| [Paribu](https://docs.paribu.com/api) | Türkiye'nin önde gelen kripto para borsası Paribu'nun geliştiricilere yönelik API ve dokümantasyon sayfası. | apiKey | Var |
 | [Paycell SDK](https://paycell.com.tr/paycell-sdk) | Paycell ile ödeme akışını (iOS/Android/Web) uygulamana entegre etmeye yarayan SDK. | MerchantCode | Var |
 | [Payfull](https://www.payfull.com/odeme-gecidi/) | Sanal POS ve ödeme işlemleri için Payment Gateway API sunan ödeme hizmeti sağlayıcısı.  | apiKey | Var |
 | [Sermaye Piyasası Kurulu](https://ws.spk.gov.tr/help/index.html) | Sermaye Piyasası Kurulu (SPK) tarafından sunulan web servisleri bulunmaktadır.  | apiKey | Var |
