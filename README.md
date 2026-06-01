@@ -47,6 +47,7 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [QNB](https://developer.qnb.com.tr/landing) | API and documentation page for developers of QNB Finansbank.  | OAuth | Yes |
 | [Trendyol](https://developers.trendyol.com/en) | A Turkish e-commerce and online shopping company. | OAuth | Yes |
 | [TUIK](https://data.tuik.gov.tr/) | Turkish Statistical Institute metadata and API endpoint. | OAuth | Yes |
+| [TurkiyeAPI](https://api.turkiyeapi.dev/) | REST API providing administrative and geographical data of Türkiye. Created and maintained by [Ubeyde Emir Özdemir](https://github.com/ubeydeozdmr). | None | Yes |
 | [Vakıfbank](https://apiportal.vakifbank.com.tr/en/api-catalog) | Second most active and largest bank in Turkey. | OAuth | Yes | 
 | [Yemeksepeti](https://developer.yemeksepeti.com/en) | API for Yemeksepeti which is an online food ordering site. | apiKey | No |
 | [Ziraat Katılım](https://developer.ziraatkatilim.com.tr/) | Ziraat Katılım's API developer portal. | OAuth | Yes | 
