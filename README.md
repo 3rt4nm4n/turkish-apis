@@ -110,3 +110,9 @@ Bu repo'ya siz de katkıda bulunabilirsiniz.
 | [YaaniMail](https://api.yaanimail.com/) | Turkcell'e ait olan Yaani'nin e-posta platformu. | OAuth | Var | 
 | [YapıKredi](https://apiportal.yapikredi.com.tr/) | YapıKredi API portalı. | OAuth | Var | 
 | [Ziraat Katılım](https://developer.ziraatkatilim.com.tr/) | Ziraat Katılım API geliştirici portalı. | OAuth | Var |
+
+### Açık Veri Kaynakları / Open Data Sources
+
+| Kaynak / Source | Tanım / Description | Auth | HTTPS |
+|---|---|---|---|
+| [Güncel Akaryakıt Fiyatları](https://guncelakaryakitfiyatlari.com/acik-veri/) | EPDK akaryakıt fiyatları: 81 il, şirket ve yakıt türüne göre günlük statik JSON/CSV dosyaları. / Turkish fuel prices reported to EPDK: daily static JSON/CSV files by province, company and fuel. | Yok / None | Var / Yes |
