@@ -1,5 +1,7 @@
 # turkish-apis
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onderertan)
+
 #### What is turkish-apis?
 
 A repository of APIs and open data sources related to Türkiye.
